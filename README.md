@@ -1,4 +1,3 @@
-# Dillinger
 # ng2-longpress
 Angular 2 longpress directive for desktop desktop & mobile
 
@@ -12,13 +11,6 @@ or
 ```
 $ npm i
 ```
-
-### Instalation
-
-```html
-$ yarn install
-```
-
 
 ### Example
 ```html
